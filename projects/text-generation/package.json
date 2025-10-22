@@ -1,0 +1,17 @@
+{
+  "name": "@genai-mischiefs/text-generation",
+  "version": "1.0.0",
+  "description": "Text generation experiments and implementations",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "echo \"Building text-generation...\"",
+    "lint": "echo \"Linting text-generation...\""
+  },
+  "keywords": ["text-generation", "genai", "ai", "nlp"],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {}
+}

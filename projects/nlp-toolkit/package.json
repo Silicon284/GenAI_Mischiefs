@@ -1,0 +1,17 @@
+{
+  "name": "@genai-mischiefs/nlp-toolkit",
+  "version": "1.0.0",
+  "description": "Natural Language Processing tools and utilities",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "echo \"Building nlp-toolkit...\"",
+    "lint": "echo \"Linting nlp-toolkit...\""
+  },
+  "keywords": ["nlp", "natural-language-processing", "ai", "text-analysis"],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {}
+}

@@ -1,0 +1,17 @@
+{
+  "name": "@genai-mischiefs/image-analysis",
+  "version": "1.0.0",
+  "description": "Image analysis and computer vision experiments",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "echo \"Building image-analysis...\"",
+    "lint": "echo \"Linting image-analysis...\""
+  },
+  "keywords": ["image-analysis", "computer-vision", "ai", "ml"],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {}
+}
