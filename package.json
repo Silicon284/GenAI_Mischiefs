@@ -1,0 +1,23 @@
+{
+  "name": "genai-mischiefs-monorepo",
+  "version": "1.0.0",
+  "description": "A monorepo for exploring GenAI reference projects",
+  "private": true,
+  "workspaces": [
+    "projects/*"
+  ],
+  "scripts": {
+    "install-all": "npm install",
+    "build-all": "npm run build --workspaces",
+    "test-all": "npm run test --workspaces",
+    "lint-all": "npm run lint --workspaces",
+    "clean": "npm run clean --workspaces"
+  },
+  "devDependencies": {
+    "lerna": "^7.0.0"
+  },
+  "engines": {
+    "node": ">=16.0.0",
+    "npm": ">=8.0.0"
+  }
+}
